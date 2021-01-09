@@ -311,14 +311,15 @@ span.social {
 
 @media (max-width: 479px){
   .mainTitle {
-    max-width: 320px;
+    width: 320px;
+    font-size: 40px;
   }
 }
 
 @media (min-width: 480px) and (max-width: 768px){
 
   .mainTitle {
-    max-width: 320px;
+    width: 320px;
   }
 
 }
